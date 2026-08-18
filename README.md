@@ -85,10 +85,3 @@ Logistic Regression comes out on top on ROC-AUC and gets saved as
 `models/best_model.joblib`. `outputs/feature_importance.png` (from the
 Random Forest) shows **credit utilization** and **debt-to-income ratio** as
 the strongest predictors — matches real-world credit scoring intuition.
-
-## Internship submission checklist (from the task PDF)
-
-- [ ] Push this folder to a GitHub repo named `CodeAlpha_CreditScoringModel`
-- [ ] Post a short video explaining the project on LinkedIn, tag @CodeAlpha, include the GitHub link
-- [ ] Submit through the WhatsApp-group submission form
-- [ ] Remember: at least 2–3 tasks total are needed for the completion certificate — this is only Task 1
