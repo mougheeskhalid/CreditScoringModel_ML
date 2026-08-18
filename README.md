@@ -16,7 +16,7 @@ CodeAlpha_CreditScoringModel/
 ├── predict.py                 # loads the saved model and scores new applicants
 ├── requirements.txt
 ├── data/
-│   └── credit_data.csv        # already generated for you (3,000 rows)
+│   └── credit_data.csv        
 ├── models/                    # created after you run credit_scoring_model.py
 └── outputs/                   # plots + comparison table land here
 ```
