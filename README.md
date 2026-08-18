@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CodeAlpha_CreditScoringModel
 
 **CodeAlpha Machine Learning Internship — Task 1: Credit Scoring Model**
@@ -92,3 +93,6 @@ the strongest predictors — matches real-world credit scoring intuition.
 - [ ] Post a short video explaining the project on LinkedIn, tag @CodeAlpha, include the GitHub link
 - [ ] Submit through the WhatsApp-group submission form
 - [ ] Remember: at least 2–3 tasks total are needed for the completion certificate — this is only Task 1
+=======
+# CodeAlpha_CreditScoringModel_ML
+>>>>>>> 8fd1675b53ddd2e6e56182f663d484308cf82f08
